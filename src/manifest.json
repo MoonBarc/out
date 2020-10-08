@@ -1,0 +1,9 @@
+{
+    "name": "Nanoduels",
+    "version": "0.1.0",
+    "description": "not a gaming extension please ignore",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html"
+    }
+}
